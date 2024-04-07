@@ -3,15 +3,31 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Eat, drink, and be married.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+This day is all about Ryan and Laura's family & celebrating their love.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Date : 15 Feb 2025
+Time : 3pm for 3:30 pm
+Venue : Greenpoint Salesian Football Club
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+There will be a cash bar available.
+
+Regrettably no children will be attending
+
+
+With all we have, we're been truly blessed.
+Your presence & prayers are all we request.
+
+But if you desire to give nonetheless,
+A monetary gift is what we suggest 
+
+
+Bank:
+Account:
+Sort code:
+Swift code:
+Reference: YOUR Name
+
+
+>Celebrate the beauty of our love as we unite in marriage. Together, we embark on this journey hand in hand, creating cherished memories and a future filled with endless possibilities.
