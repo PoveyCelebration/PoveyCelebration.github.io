@@ -17,7 +17,7 @@ title: Povey Celebration
 email: poveycelebration@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Love's Journey Begins Here.
-baseurl: "/cheers" # the subpath of your site, e.g. /blog
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-310.png
 twitter_username: patdryburgh
