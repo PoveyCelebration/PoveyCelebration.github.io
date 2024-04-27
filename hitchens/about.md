@@ -34,12 +34,12 @@ Your presence & prayers are all we request.
 But if you desire to give nonetheless,
 A monetary gift is what we suggest 
 
->Bank:
-
+>Bank: 
+>
 >Account:
-
+>
 >Sort code:
-
+>
 >Swift code:
 
 >Reference: YOUR Name
