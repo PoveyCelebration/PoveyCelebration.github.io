@@ -2,18 +2,18 @@
 layout: post
 title: About
 ---
-EAT, DRINK, and be MARRIED!  
-
+EAT, DRINK, and be MARRIED!
+<br/>
 This day is all about Ryan and Laura's family & celebrating their love.
 <br/>
 <br/>
+
 Date : 15 Feb 2025
 
 Time : 3pm for 3:30 pm
 
-Venue : Greenpoint Salesian Football Club  
+Venue : Greenpoint Salesian Football Club
 <br/>
-<br/>  
 There will be a cash bar available.
 <br/>
 <br/>
