@@ -2,8 +2,6 @@
 layout: post
 title: About
 ---
-
-
 Eat, drink, and be married.
 This day is all about Ryan and Laura's family & celebrating their love.
 
