@@ -2,7 +2,8 @@
 layout: post
 title: About
 ---
-EAT, DRINK, and be MARRIED!
+EAT, DRINK, and be MARRIED!  
+
 This day is all about Ryan and Laura's family & celebrating their love.  
 <br/>
 <br/>
@@ -13,9 +14,10 @@ Time : 3pm for 3:30 pm
 
 Venue : Greenpoint Salesian Football Club  
 <br/>
-<br/>
-There will be a cash bar available.
-Regrettably no children will be attending
+<br/>  
+There will be a cash bar available.  
+
+Regrettably no children will be attending  
 
 With all we have, we're been truly blessed.
 Your presence & prayers are all we request.
