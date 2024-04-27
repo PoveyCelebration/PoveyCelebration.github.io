@@ -6,6 +6,7 @@ EAT, DRINK, and be MARRIED!
 This day is all about Ryan and Laura's family & celebrating their love.  
 <br/>
 <br/>
+
 Date : 15 Feb 2025
 
 Time : 3pm for 3:30 pm
@@ -23,11 +24,9 @@ A monetary gift is what we suggest
 
 >Bank:  
 >Account:  
->Sort code:
->
->Swift code:
->
->Reference: YOUR Name
+>Sort code:  
+>Swift code:  
+>Reference: YOUR Name  
 
 
 >Celebrate the beauty of our love as we unite in marriage. Together, we embark on this journey hand in hand, creating cherished memories and a future filled with endless possibilities.
