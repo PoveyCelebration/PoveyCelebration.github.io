@@ -8,8 +8,9 @@ This day is all about Ryan and Laura's family & celebrating their love.
 
 
 
-
-a
+>
+>
+>
 
 
 
@@ -41,7 +42,7 @@ A monetary gift is what we suggest
 >Sort code:
 >
 >Swift code:
-
+>
 >Reference: YOUR Name
 
 
