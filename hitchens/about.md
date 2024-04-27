@@ -16,8 +16,10 @@ Venue : Greenpoint Salesian Football Club
 <br/>
 <br/>  
 There will be a cash bar available.  
+<br/>
 
 Regrettably no children will be attending  
+<br/>
 
 With all we have, we're been truly blessed.
 Your presence & prayers are all we request.
