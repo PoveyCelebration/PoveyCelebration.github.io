@@ -15,10 +15,10 @@ Time : 3pm for 3:30 pm
 Venue : Greenpoint Salesian Football Club  
 <br/>
 <br/>  
-There will be a cash bar available.  
+There will be a cash bar available.
 <br/>
 
-Regrettably no children will be attending  
+Regrettably no children will be attending
 <br/>
 
 With all we have, we're been truly blessed.
