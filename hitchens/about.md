@@ -8,11 +8,13 @@ This day is all about Ryan and Laura's family & celebrating their love.
 <br/>
 <br/>
 
-Date : 15 Feb 2025
+Date : 15 February 2025
 
 Time : 3pm for 3:30 pm
 
-Venue : Greenpoint Salesian Football Club
+Venue : Green Point Salesian Football Club
+
+Address : Stephan Way, Green Point, Cape Town
 <br/>
 <br/>
 There will be a cash bar available.
