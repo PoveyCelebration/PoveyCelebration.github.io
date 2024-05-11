@@ -17,7 +17,6 @@ Address : Stephan Way, Green Point, Cape Town
 ![](/assets/images/timeline.png)
 
 <br/>
-<br/>
 There will be a cash bar available.
 <br/>
 <br/>
