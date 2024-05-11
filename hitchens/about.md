@@ -10,8 +10,6 @@ This day is all about Ryan and Laura's family & celebrating their love.
 
 Date : 15 February 2025
 
-Time : 3pm for 3:30 pm
-
 Venue : Green Point Salesian Football Club
 
 Address : Stephan Way, Green Point, Cape Town
@@ -20,7 +18,7 @@ Address : Stephan Way, Green Point, Cape Town
 There will be a cash bar available.
 <br/>
 <br/>
-Regrettably no children will be attending
+We hope you understand our decision to make the wedding children-free and take the opportunity to let your hair down.
 <br/>
 <br/>
 With all we have, we're been truly blessed.
