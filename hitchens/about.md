@@ -14,7 +14,7 @@ Venue : Green Point Salesian Football Club
 
 Address : Stephan Way, Green Point, Cape Town
 
-![](/assets/images/timeline.png)
+![](/assets/images/timeline2.png)
 
 <br/>
 There will be a cash bar available.
