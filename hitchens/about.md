@@ -13,6 +13,9 @@ Date : 15 February 2025
 Venue : Green Point Salesian Football Club
 
 Address : Stephan Way, Green Point, Cape Town
+
+![](/assets/images/timeline.png)
+
 <br/>
 <br/>
 There will be a cash bar available.
