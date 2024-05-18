@@ -2,4 +2,9 @@
 layout: post
 title: Dress Code
 ---
-While the bride and groom will be dressed up, we ask our guests to wear bright & bold colours with comfortable dancing shoes. The venue is majority grass.
+Join us for a vibrant celebration!
+
+Ladies, we encourage you to bloom in your finest attire! Bright colors, bold patterns, and playful textures are welcomed and encouraged. Let your personality shine through your outfit and add a pop of color to our garden party!
+
+
+Gents, wear your most dashing bold-hued shirts, linen pants, and a pop of color to complement the lush green surroundings.
