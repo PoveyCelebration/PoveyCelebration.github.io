@@ -4,7 +4,7 @@ title: About
 ---
 EAT, DRINK, and be MARRIED!
 <br/>
-This day is all about Ryan and Laura's family & celebrating their love.
+Join us as we gather to celebrate our love and commitment at our family celebration and wedding
 <br/>
 <br/>
 
