@@ -17,7 +17,7 @@ Address : Stephan Way, Green Point, Cape Town
 ![](/assets/images/timeline3.png)
 
 <br/>
-There will be a cash bar available.
+A cash bar will be available throughout the evening.
 <br/>
 <br/>
 We hope you understand our decision to make the wedding children-free and take the opportunity to let your hair down.
