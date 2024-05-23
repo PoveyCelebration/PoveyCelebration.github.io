@@ -5,6 +5,8 @@
 
 $asset_url: '{{ '/assets' | absolute_url }}';
 
+$brand-color: black;
+
 @import 
   "reset",
   "variables",
