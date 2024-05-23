@@ -1,28 +1,15 @@
 ---
 ---
 
-@charset "utf-8";
+$brand-color:         #f7e2c8;
+$highlight:           lighten($brand-color, 35%);
+$text-color:          #0b0404;
+$muted-text-color:    #64644B;
+$font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
 
-$asset_url: '{{ '/assets' | absolute_url }}';
+$on-bigphone:         375px;
+$on-tablet:           768px;
+$on-laptop:           960px;
+$on-desktop:          1200px;
 
-@import 
-  "reset",
-  "variables",
-  "syntax-highlighting",
-  "mixins",
-  "font",
-  "base",
-  "masthead",
-  "menu",
-  "article",
-  "footnotes",
-  "search"
-;
-
-body {
-  background: red;
-  color: $text-color;
-  font-family: $font-family;
-  font-size: 1.3125em;
-  line-height: 1.5;
-}
+@import "-sections-dir";
