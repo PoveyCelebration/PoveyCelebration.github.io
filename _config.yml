@@ -43,3 +43,6 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+# The theme uses a [custom DuckDuckGo Search Form](https://ddg.patdryburgh.com) that can be turned off by including the following line in your site's `_config.yml` file: 
+hide_search: true
