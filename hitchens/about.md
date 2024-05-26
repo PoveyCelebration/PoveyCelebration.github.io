@@ -28,8 +28,8 @@ Your presence & prayers are all we request.
 But if you desire to give nonetheless,
 A monetary gift is what we suggest 
 
->Bank:  FNB
->Account:  62905299279
+>Bank:  FNB<br/><br/>
+>Account:  62905299279<br/><br/>
 >Reference: YOUR Name  
 
 
