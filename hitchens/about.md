@@ -28,10 +28,8 @@ Your presence & prayers are all we request.
 But if you desire to give nonetheless,
 A monetary gift is what we suggest 
 
->Bank:  
->Account:  
->Sort code:  
->Swift code:  
+>Bank:  FNB
+>Account:  62905299279
 >Reference: YOUR Name  
 
 
