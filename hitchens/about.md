@@ -29,7 +29,12 @@ But if you desire to give nonetheless,
 A monetary gift is what we suggest 
 
 >Bank:  FNB<br/><br/>
->Account:  62905299279<br/><br/>
+>Account:  6205 4753 548<br/><br/>
+>Account Name:  Miss Laura M Slabber<br/><br/>
+>Swift code:  FIRNZAJJXXX<br/><br/>
+>Sort Code:  250655<br/><br/>
+>Aba/routing code for FNB 250655<br/><br/>
+
 >Reference: YOUR Name  
 
 
