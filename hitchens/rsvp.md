@@ -9,4 +9,4 @@ title: RSVP
 Click [HERE](https://forms.gle/7SMMR8GHHXhHHNt68) to RSVP
 <br/>
 <br/>
-Please RSVP by the 1st of November 2024.
+Please RSVP by the 1st of January 2025.
